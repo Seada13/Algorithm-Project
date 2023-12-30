@@ -1,0 +1,15 @@
+link youtube
+https://www.youtube.com/watch?v=HqPJF2L5h9U
+
+link code and understand heapsort
+https://www.geeksforgeeks.org/heap-sort/
+
+Chatgpt
+(The main idea behind heapsort is leveraging a data structure called a heap to efficiently sort elements. A heap is a specialized binary tree where the value of each node is greater than or equal to its children in the case of a max heap (or less than or equal to its children in a min-heap).
+
+In heapsort, the algorithm first builds a max heap from the unsorted list/array. It then repeatedly extracts the maximum element from the heap (the root of the heap), places it at the end of the array, and adjusts the heap to maintain the heap property. This process continues until the entire array is sorted.
+
+The crucial steps in heapsort are the heap construction (build max heap) and the repeated extraction of the maximum element while maintaining the heap property. The time complexity of heapsort is O(n log n) for average and worst cases, making it an efficient sorting algorithm.)
+
+
+ 
